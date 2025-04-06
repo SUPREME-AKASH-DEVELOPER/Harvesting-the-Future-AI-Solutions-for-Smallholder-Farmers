@@ -3,6 +3,11 @@
 **HarvestingAI** is a smart agricultural platform that leverages Artificial Intelligence to empower smallholder farmers with predictive insights, crop recommendations, and efficiency-boosting tools. Built using Flask for the backend and a static HTML interface for the frontend, it offers a lightweight and scalable solution for the future of farming.
 
 ---
+🔗 **Live Demo**:  
+- 🔁 Backend: [https://harvesting-the-future-ai-solutions-for.onrender.com](https://harvesting-the-future-ai-solutions-for.onrender.com)  
+- 🖼️ Frontend: [https://harvesting-the-future-ai-solutions.netlify.app](https://harvesting-the-future-ai-solutions.netlify.app)
+
+---
 
 ## 🗂️ Project Structure
 
