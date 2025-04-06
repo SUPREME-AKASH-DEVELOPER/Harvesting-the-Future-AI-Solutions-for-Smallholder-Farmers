@@ -1,0 +1,6 @@
+Flask
+flask-cors
+google-generativeai
+deep-translator
+python-dotenv
+gunicorn
